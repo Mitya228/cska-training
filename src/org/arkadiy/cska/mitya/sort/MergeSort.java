@@ -1,7 +1,4 @@
-package org.arkadiy.cska.sort;
-
-import java.util.ArrayList;
-import java.util.List;
+package org.arkadiy.cska.mitya.sort;
 
 /**
  * Created by Mitya on 12.02.2016.
@@ -10,7 +7,7 @@ public class MergeSort<T extends Comparable<T>> implements SortAlgorithm<T> {
 
 
     public void print(T[] array) {
-        for (int l =0; l<array.length-1;l++){
+        for (int l =0; l<array.length;l++){
             System.out.print(array[l]);
         }
         System.out.println();

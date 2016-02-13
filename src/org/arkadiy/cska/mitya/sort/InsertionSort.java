@@ -1,4 +1,4 @@
-package org.arkadiy.cska.sort;
+package org.arkadiy.cska.mitya.sort;
 
 /**
  * Created by Mitya on 12.02.2016.

@@ -1,4 +1,4 @@
-package org.arkadiy.cska.sort;
+package org.arkadiy.cska.mitya.sort;
 
 public interface SortAlgorithm<T extends Comparable<T>> {
 
